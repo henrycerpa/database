@@ -1,0 +1,753 @@
+﻿cultivar,source,state,county,sample_id,sample_date,sample_year,total_cbd,total_thc,total_cbg,cbd_thc_ratio
+ABBIE, Sulcanna, Illinois, Warren,643, Sep 28,2020,3.74,0.18,0.22,20.32
+ABBIE, Sulcanna, Illinois, Jo Daviess,601, Sep 22,2020,3.41,0.17,0.31,20.54
+ABBIE, Sulcanna, Illinois, Champaign,576, Sep 23,2020,2.1,0.11,0.18,18.79
+Abacus, Alterra, Wisconsin, Fond du Lac,218, Aug 11,2020,4.91,0.22,0.34,22.48
+Abacus, Grow Big Hydroponics, Wisconsin, Fond du Lac,157, Oct 13,2020,12.59,0.48,0.15,26.03
+Abacus, Grow Big Hydroponics, Wisconsin, Fond du Lac,251, Aug 20,2020,4.73,0.2,0.31,23.4
+Abacus, Wiscanna, Wisconsin, Door,128, Oct 20,2020,11.13,0.39,0.11,28.3
+Abacus, Grow Big Hydroponics, Wisconsin, Fond du Lac,387, Sep 9,2020,10.08,0.44,0.51,22.76
+Abacus, Wiscanna, Wisconsin, Marathon,295, Aug 27,2020,4.72,0.21,0.21,22.44
+Abacus, Wiscanna, Wisconsin, Door,385, Sep 7,2020,8.47,0.33,0.38,25.91
+Abacus, Wiscanna, Wisconsin, Door,707, Oct 4,2020,13.11,0.44,0.23,29.82
+Abacus, Wiscanna, Wisconsin, Door,225, Aug 17,2020,5.12,0.23,0.27,22.28
+Afternoon Delight, High Alpine Genetics, Indiana, Delaware,478, Sep 14,2020,5.45,0.25,0.12,21.62
+Afternoon Delight, High Alpine Genetics, Indiana, Delaware,399, Sep 8,2020,5.63,0.28,0.22,20.12
+Afternoon Delight, High Alpine Genetics, Indiana, Delaware,272, Aug 24,2020,2.21,0.13,0.07,16.66
+Altitude, High Altitude Hemp Company, Wisconsin, Walworth,444, Sep 14,2020,2.13,0.11,0.11,19.23
+Altitude, High Altitude Hemp Company, Wisconsin, Walworth,64, Oct 5,2020,3.78,0.17,0.27,22.13
+Angie, Front Range Biosciences, Wisconsin, Columbia,51, Sep 28,2020,5.59,0.22,0.1,25.03
+Angie, Front Range Biosciences, Wisconsin, Walworth,605, Sep 24,2020,7.37,0.3,0.27,24.62
+Angie, Front Range Biosciences, Wisconsin, Walworth,419, Sep 11,2020,6.57,0.27,0.1,23.92
+Angie, Front Range Biosciences, Wisconsin, Walworth,89, Oct 7,2020,7.61,0.28,0.26,26.72
+Angie, Front Range Biosciences, Wisconsin, Columbia,343, Sep 1,2020,4.22,0.18,0.23,23.47
+Angie, Front Range Biosciences, Wisconsin, Columbia,468, Sep 14,2020,4.85,0.2,0.14,23.86
+Anna Lee, Front Range Biosciences, Wisconsin, Walworth,610, Sep 24,2020,3.8,0.16,0.45,23.79
+Anna Lee, Front Range Biosciences, Wisconsin, Walworth,133, Oct 22,2020,7.04,0.09,0.34,82.71
+Anna Lee, Front Range Biosciences, Wisconsin, Columbia,431, Sep 11,2020,0,0.19,3.89,0
+Anna Lee, Front Range Biosciences, Wisconsin, Walworth,722, Oct 7,2020,6.15,0.21,0.4,29.07
+Anna Lee, Front Range Biosciences, Wisconsin, Columbia,73, Oct 5,2020,8.15,0.26,0.43,30.97
+Anna Lee, Front Range Biosciences, Wisconsin, Columbia,561, Sep 21,2020,3.87,0.16,0.41,24
+Apollo, Sulcanna, Illinois, Lee,60, Sep 29,2020,2.93,0.1,0.11,29.19
+Apollo, Sulcanna, Illinois, Lee,487, Sep 15,2020,0,0.07,4.24,0
+Apollo, FBHS LLC, Wisconsin, Lafayette,634, Sep 28,2020,3.39,0.15,0.15,22.19
+Apollo, Sulcanna, Illinois, Lee,488, Sep 15,2020,2.83,0.14,0.13,20.45
+Apollo, Sulcanna, Illinois, Lee,329, Sep 1,2020,1.46,0.1,0.09,13.91
+Apollo, Sulcanna, Wisconsin, Lafayette,490, Sep 14,2020,4.41,0.16,0.13,27.97
+Auto Tune, Beacon Hemp, Wisconsin, Columbia,28, Sep 21,2020,4.4,0.2,0.27,21.68
+Auto Tune, Beacon Hemp, Wisconsin, Columbia,263, Aug 24,2020,5.52,0.25,0.52,22.29
+Auto Tune, Beacon Hemp, Wisconsin, Columbia,424, Sep 11,2020,0,0.06,2.65,0
+Auto Tune, Beacon Hemp, Wisconsin, Walworth,288, Aug 27,2020,4.39,0.19,0.34,23.49
+Auto Tune, Beacon Hemp, Wisconsin, Walworth,8, Sep 11,2020,4.88,0.25,0.26,19.41
+AutoCBD, Phylos, Illinois, Warren,1, Aug 4,2020,3.83,1.16,0.21,3.31
+BaOx Hybrid, Infinite Tree, Wisconsin, Columbia,56, Sep 28,2020,6.98,0.28,0.39,24.86
+BaOx Hybrid, Infinite Tree, Wisconsin, Walworth,672, Oct 1,2020,7.13,0.28,0.4,25.42
+BaOx Hybrid, Infinite Tree, Wisconsin, Columbia,341, Sep 1,2020,2.87,0.14,0.19,19.81
+BaOx Hybrid, Infinite Tree, Wisconsin, Columbia,467, Sep 14,2020,3.39,0.14,0.19,24.43
+BaOx Hybrid, Infinite Tree, Wisconsin, Walworth,513, Sep 17,2020,3.83,0.18,0.33,21.9
+BaOx Hybrid, Infinite Tree, Wisconsin, Walworth,107, Oct 15,2020,6.4,0.23,0.35,28.03
+Berry Blossom, Sulcanna, Illinois, Rock Island,588, Sep 23,2020,2.93,1.12,0.27,2.62
+Berry Blossom, High Grade Hemp Seed, Michigan, Grand Traverse,638, Sep 28,2020,9.52,0.4,0.36,23.59
+Berry Blossom, Colorado Hemp Project, Illinois, Tazewell,323, Aug 31,2020,2.82,0.16,0.1,17.97
+Berry Blossom, Sulcanna, Illinois, Lee,58, Sep 29,2020,2.74,0.82,0.11,3.33
+Berry Blossom, Half Moon Hemp, Indiana, Monroe,504, Sep 15,2020,5.53,0.25,0.21,22.24
+Berry Blossom, Sulcanna, Illinois, Warren,642, Sep 28,2020,7.06,1.07,0.29,6.62
+Berry Blossom, Sulcanna, Illinois, Rock Island,708, Oct 6,2020,3.43,0.36,0.16,9.57
+Berry Blossom, Sulcanna, Illinois, Lee,328, Sep 1,2020,0.83,0.2,0.05,4.2
+Berry Blossom, Sulcanna, Illinois, Lee,489, Sep 15,2020,1.37,0.36,0.09,3.81
+Berry Blossom, High Grade Hemp Seed, Michigan, Grand Traverse,283, Aug 25,2020,3.25,0.18,0.14,18.29
+Berry Blossom, Sulcanna, Illinois, Champaign,578, Sep 23,2020,3.2,0.15,0.25,20.79
+Berry Blossom, Sulcanna, Illinois, Rock Island,368, Sep 3,2020,1.71,0.52,0.14,3.29
+Berry Blossom, High Grade Hemp Seed, Michigan, Grand Traverse,751, Sep 21,2020,7.01,0.27,0.1,26.22
+Berry Blossom, Sulcanna, Illinois, Rock Island,190, Nov 9,2020,4.73,1.99,0.23,2.37
+Berry Blossom, Sulcanna, Illinois, Rock Island,189, Nov 9,2020,5.81,0.92,0.11,6.34
+Berry Blossom, Colorado Hemp Project, Illinois, Tazewell,479, Sep 14,2020,1.89,0.1,0.11,18.63
+Berry Blossom, Colorado Hemp Project, Illinois, Tazewell,76, Oct 5,2020,8.27,0.3,0.4,27.5
+Berry Blossom, High Grade Hemp Seed, Michigan, Grand Traverse,200, Nov 11,2020,3.74,0.14,0.07,27.5
+Berry Blossom, Colorado Hemp Solutions LLC, Illinois, Randolph,416, Sep 11,2020,4.91,4.39,0.29,1.12
+Berry Blossom, Sulcanna, Illinois, Warren,503, Sep 15,2020,7.99,0.33,0.47,24.08
+Berry Blossom, Sulcanna, Illinois, Warren,395, Sep 8,2020,2.27,1.09,0.17,2.08
+Berry Blossom, High Grade Hemp Seed, Michigan, Grand Traverse,394, Sep 8,2020,3.25,0.17,0.16,19.57
+Boax, Colorado Breeders Depot, Michigan, Washtenaw,243, Aug 17,2020,1.61,0.13,0.07,12.7
+Boax, Colorado Breeders Depot, Michigan, Washtenaw,244, Aug 17,2020,1.76,0.12,0.09,14.46
+Boax of Cherries, Heritage Hemp Seeds, Michigan, Kent,376, Sep 4,2020,5.95,0.25,0.24,23.63
+Boax of Cherries, Colorado Green Films Technology, Wisconsin, Racine,209, Aug 6,2020,2.72,0.26,0.19,10.57
+Boax of Cherries, Colorado Green Films Technology, Wisconsin, Racine,245, Aug 20,2020,4.45,0.7,0.31,6.31
+Boax of Cherries, Heritage Hemp Seeds, Michigan, Kent,351, Aug 31,2020,5.51,0.24,0.27,23.19
+Boax of Cherries, Heritage Hemp Seeds, Michigan, Kent,43, Sep 21,2020,12.16,0.47,0.46,26.09
+Boax of Cherries, Heritage Hemp Seeds, Michigan, Kent,497, Sep 14,2020,8.51,0.3,0.3,28.56
+Boax of Cherries, Colorado Green Films Technology, Wisconsin, Racine,19, Sep 21,2020,3.46,0.11,0.24,31.13
+Boax of Cherries, Colorado Green Films Technology, Wisconsin, Racine,149, Sep 24,2020,4.9,0.18,0.18,27.83
+Boax of Cherries, Colorado Green Films Technology, Wisconsin, Racine,275, Aug 26,2020,4.48,0.2,0.33,22.65
+Buffalo Soldier, Kifcure, Wisconsin, Walworth,617, Sep 24,2020,1.42,0.11,3.74,12.4
+Buffalo Soldier, Ag Marvels, Michigan, Huron,238, Aug 17,2020,2.54,0.05,0.35,48.65
+Buffalo Soldier, Ag Marvels, Michigan, Huron,357, Aug 31,2020,0.03,0.06,7.8,0.5
+Buffalo Soldier, Kifcure, Wisconsin, Columbia,268, Aug 24,2020,0,0.02,3.08,0
+Buffalo Soldier, Kifcure, Wisconsin, Walworth,420, Sep 11,2020,0.03,0.13,7.01,0.25
+Buffalo Soldier, Ag Marvels, Michigan, Huron,45, Sep 21,2020,0,0.17,10.16,0
+Buffalo Soldier, Kifcure, Wisconsin, Walworth,90, Oct 7,2020,0.03,0.08,5.8,0.41
+Buffalo Soldier, Kifcure, Wisconsin, Columbia,432, Sep 11,2020,7.21,0.31,0.39,23.49
+Buffalo Soldier, Ag Marvels, Michigan, Muskegon,195, Nov 6,2020,0.09,0.29,6.31,0.31
+Buffalo Soldier, Ag Marvels, Michigan, Huron,412, Sep 8,2020,0,0.1,7.95,0
+Buffalo Soldier, Ag Marvels, Michigan, Muskegon,409, Sep 8,2020,0.03,0.05,6.37,0.53
+Buffalo Soldier, Ag Marvels, Michigan, Muskegon,159, Oct 12,2020,0,0.02,4.61,0
+Buffalo Soldier, Kifcure, Wisconsin, Columbia,35, Sep 21,2020,0.57,0.23,4.24,2.45
+C2, Boring Hemp Co,Wisconsin, Columbia,698, Oct 5,2020,5.74,0.22,0.28,26.53
+C2, Boring Hemp Co,Wisconsin, Columbia,563, Sep 21,2020,2.8,0.13,0.21,20.79
+C2, Boring Hemp Co,Wisconsin, Columbia,124, Oct 19,2020,10.72,0.37,0.2,29.12
+CHP-CBG, Colorado Hemp Project, Illinois, Warren,687, Sep 30,2020,2.65,0.16,2.83,16.33
+CHP-CBG, Colorado Hemp Project, Illinois, Warren,206, Nov 13,2020,0.75,0.57,6.62,1.3
+CHP-CBG, Colorado Hemp Project, Illinois, Tazewell,481, Sep 14,2020,1.56,0.08,0.08,18.56
+CHP-CBG, Colorado Hemp Project, Illinois, Tazewell,324, Aug 31,2020,2.64,0.15,0.08,17.29
+CHP-CBG, Colorado Hemp Project, Illinois, Tazewell,481, Sep 14,2020,1.56,0.08,0.08,18.56
+CHP-CBG, Colorado Hemp Project, Illinois, Warren,687, Sep 30,2020,2.65,0.16,2.83,16.33
+CJ2, Sunrise Genetics, Wisconsin, Walworth,665, Oct 1,2020,9.93,0.4,0.54,24.67
+CJ2, Sunrise Genetics, Wisconsin, Columbia,31, Sep 21,2020,8.96,0.34,0.58,26.08
+CJ2, Sunrise Genetics, Wisconsin, Walworth,607, Sep 24,2020,9.05,0.35,0.62,25.53
+CJ2, Sunrise Genetics, Wisconsin, Columbia,261, Aug 24,2020,3.09,0.16,0.19,19.89
+CJ2, Sunrise Genetics, Wisconsin, Columbia,437, Sep 11,2020,2.48,0.13,0.12,19.37
+CJ2, Sunrise Genetics, Wisconsin, Walworth,374, Sep 4,2020,4.8,0.2,0.39,24.07
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Walworth,119, Oct 15,2020,7.36,0.28,0.66,25.94
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Walworth,679, Oct 1,2020,6.22,0.28,0.82,22.27
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Columbia,47, Sep 28,2020,5.69,0.2,0.64,27.95
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Columbia,348, Sep 1,2020,1.83,0.12,0.28,15.68
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Walworth,523, Sep 17,2020,7.5,0.32,0.77,23.29
+CWS1 x EPG, Eastern Plains Hemp, Wisconsin, Columbia,455, Sep 14,2020,4.27,0.18,0.56,23.65
+Cat's Meow (CM), Alterra, Wisconsin, Fond du Lac,389, Sep 9,2020,3.27,0.16,0.16,20.22
+Cat's Meow (CM), Alterra, Wisconsin, Fond du Lac,248, Aug 20,2020,3.16,0.17,0.28,18.86
+Cat's Meow (CM), Alterra, Wisconsin, Fond du Lac,219, Aug 11,2020,3.1,0.16,0.21,19.17
+Cat's Meow (CM), Alterra, Wisconsin, Fond du Lac,731, Oct 13,2020,10.28,0.37,0.2,27.43
+Catnip Cream Sauce, High Alpine Genetics, Indiana, Delaware,400, Sep 8,2020,5.8,0.3,0.24,19.19
+Catnip Cream Sauce, High Alpine Genetics, Indiana, Delaware,273, Aug 24,2020,3.32,0.13,0.03,25.01
+Catnip Cream Sauce, High Alpine Genetics, Indiana, Delaware,474, Sep 14,2020,5.47,0.23,0.16,23.28
+Charlotte's Cherry, Illinois Hemp Project, Illinois, Kendall,38, Sep 19,2020,8.96,0.5,0.6,17.76
+Charlotte's Cherry, Illinois Hemp Project, Illinois, Kendall,39, Sep 19,2020,9.33,0.4,0.18,23.21
+Charlotte's Wife, Colorado Hemp Project, Wisconsin, Green,637, Sep 28,2020,6.72,0.26,0.31,25.68
+Charlotte's Wife, Colorado Hemp Project, Wisconsin, Green,471, Sep 14,2020,1.96,0.1,0.13,19.61
+Charlotte's Wife, Colorado Hemp Project, Wisconsin, Green,380, Sep 8,2020,4.51,0.2,0.36,22.62
+Charlotte's Wife, Colorado Hemp Project, Wisconsin, Green,583, Sep 22,2020,3.96,0.17,0.27,22.77
+Charlotte's Wife, Colorado Hemp Project, Wisconsin, Green,703, Oct 6,2020,4.04,0.15,0.32,27.32
+Cherry Blossom, Blue Forest Farms, Michigan, Muskegon,123, Oct 17,2020,10.2,0.41,0.37,24.59
+Cherry Blossom, Old Country Hemp, Wisconsin, Marathon,363, Sep 1,2020,3.05,0.12,0.16,26.09
+Cherry Blossom, Everything Hemp, Wisconsin, Dane,255, Aug 25,2020,2.59,0.11,0.17,22.87
+Cherry Blossom, Old Country Hemp, Wisconsin, Marathon,410, Sep 9,2020,4.12,0.17,0.33,24.18
+Cherry Blossom, Sourced in Nature, Wisconsin, Vilas,493, Sep 15,2020,5.09,0.19,0.44,26.61
+Cherry Blossom, Old Country Hemp, Wisconsin, Green,582, Sep 23,2020,6.76,0.28,0.37,24.5
+Cherry Blossom, Blue Forest Farms, Michigan, Muskegon,194, Nov 6,2020,10.77,0.35,0.22,30.47
+Cherry Blossom, Everything Hemp, Wisconsin, Dane,87, Oct 7,2020,7,0.23,0.34,30.04
+Cherry Blossom, Old Country Hemp, Wisconsin, Marathon,86, Oct 3,2020,4.13,0.15,0.09,27.5
+Cherry Blossom, Blue Forest Farms, Michigan, Muskegon,597, Sep 22,2020,5.26,0.24,0.35,22.28
+Cherry Blossom, Everything Hemp, Wisconsin, Dane,371, Sep 7,2020,3.05,0.14,0.2,21.77
+Cherry Blossom, Old Country Hemp, Wisconsin, Green,80, Oct 7,2020,7.43,0.24,0.31,30.41
+Cherry Blossom, Everything Hemp, Wisconsin, Dane,316, Aug 31,2020,2.91,0.14,0.14,20.24
+Cherry Blossom, Sourced in Nature, Wisconsin, Vilas,711, Oct 5,2020,9.28,0.3,0.15,30.63
+Cherry Butter, High Alpine Genetics, Indiana, Delaware,270, Aug 24,2020,2.63,0.12,0.03,22.02
+Cherry Butter, High Alpine Genetics, Indiana, Delaware,398, Sep 8,2020,8.05,0.35,0.31,23.09
+Cherry Butter, High Alpine Genetics, Indiana, Delaware,477, Sep 14,2020,8.66,0.35,0.15,24.58
+Cherry Wine, Colorado Hemp Project, Illinois, Tazewell,326, Aug 31,2020,2.68,0.14,0.13,19.28
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,446, Sep 14,2020,1.98,0.09,0.13,21.63
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,445, Sep 14,2020,2.51,0.15,0.14,16.57
+Cherry Wine, Fruit Growers Laboratory Inc,Illinois, Piatt,507, Sep 16,2020,8.61,0.37,0.29,23.15
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,122, Oct 14,2020,9.24,0.4,0.41,23.23
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,485, Sep 14,2020,3.81,0.2,0.19,19.4
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,121, Oct 14,2020,10.05,0.41,0.24,24.36
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,486, Sep 14,2020,3.62,0.23,0.24,15.92
+Cherry Wine, Sulcanna, Illinois, Warren,544, Sep 12,2020,1.89,0.11,0.05,17.84
+Cherry Wine, Winter Fox Farms, Illinois, Will,308, Sep 1,2020,2.19,0.22,0.06,9.75
+Cherry Wine, Sulcanna, Illinois, Champaign,580, Sep 23,2020,3.69,0.19,0.2,19.83
+Cherry Wine, Phyle Pharms, Michigan, Oakland,573, Sep 21,2020,4.14,0.16,0.08,25.29
+Cherry Wine, Bear Mountain Hemp, Wisconsin, Oneida,57, Sep 27,2020,4.01,0.16,0.15,24.95
+Cherry Wine, Phyle Pharms, Michigan, Oakland,571, Sep 21,2020,3.22,0.14,0.18,23.11
+Cherry Wine, Phyle Pharms, Michigan, Oakland,417, Sep 9,2020,2.44,0.13,0.06,18.91
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,624, Sep 22,2020,6.47,0.28,0.25,23.1
+Cherry Wine, Phyle Pharms, Michigan, Oakland,623, Sep 23,2020,11.8,0.41,0.23,28.52
+Cherry Wine, Phyle Pharms, Michigan, Oakland,622, Sep 23,2020,8.89,0.31,0.14,28.37
+Cherry Wine, Colorado Hemp Project, Illinois, Warren,686, Sep 30,2020,7.61,0.28,0.32,27.59
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,483, Sep 14,2020,4.16,0.24,0.08,17.53
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,625, Sep 22,2020,4.61,0.21,0.27,22.03
+Cherry Wine, Phyle Pharms, Michigan, Oakland,356, Sep 1,2020,1.47,0.11,0.14,13.96
+Cherry Wine, Sulcanna, Illinois, Jo Daviess,602, Sep 22,2020,5.33,0.24,0.22,22.32
+Cherry Wine, Phyle Pharms, Michigan, Oakland,570, Sep 21,2020,3.26,0.14,0.18,23.09
+Cherry Wine, Triple Barn Farms, Illinois, Jackson,202, Nov 16,2020,4.53,0.16,0.03,28.44
+Cherry Wine, Fruit Growers Laboratory Inc,Illinois, Piatt,203, Nov 12,2020,14.47,0.29,0.21,49.88
+Cherry Wine, Colorado Hemp Project, Illinois, Tazewell,480, Sep 14,2020,3.85,0.17,0.18,22.17
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,180, Oct 28,2020,9.55,0.48,0.41,19.95
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,627, Sep 22,2020,4.88,0.21,0.29,23.6
+Cherry Wine, Triple Barn Farms, Illinois, Jackson,179, Nov 2,2020,9.16,0.44,0.33,20.87
+Cherry Wine, Triple Barn Farms, Illinois, Jackson,178, Nov 2,2020,11.9,0.5,0.16,23.72
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,658, Sep 29,2020,8.44,0.35,0.53,23.9
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,657, Sep 29,2020,4.56,0.2,0.14,22.73
+Cherry Wine, Bear Mountain Hemp, Wisconsin, Oneida,499, Sep 14,2020,2.54,0.1,0.08,25.87
+Cherry Wine, Phyle Pharms, Michigan, Oakland,418, Sep 9,2020,3.32,0.17,0.12,19.83
+Cherry Wine, Cheyenne Mountain Seed Company, Indiana, Starke,296, Aug 26,2020,2.77,0.14,0.04,19.92
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,628, Sep 22,2020,3,0.15,0.32,19.86
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,484, Sep 14,2020,4.12,0.19,0.18,21.3
+Cherry Wine, Sulcanna, Illinois, Saline,349, Aug 26,2020,4.39,0.24,0.25,18.28
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,659, Sep 29,2020,5.61,0.26,0.15,21.4
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,656, Sep 29,2020,5.4,0.22,0.23,24.12
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,442, Sep 14,2020,1.78,0.08,0,23.24
+Cherry Wine, Phyle Pharms, Michigan, Oakland,575, Sep 21,2020,7.11,0.26,0.08,27.86
+Cherry Wine, Phyle Pharms, Michigan, Oakland,574, Sep 21,2020,2.12,0.11,0.15,18.6
+Cherry Wine, Colorado Hemp Project, Illinois, Tazewell,79, Oct 5,2020,8.15,0.28,0.39,28.78
+Cherry Wine, Sulcanna, Illinois, Saline,551, Sep 12,2020,6.62,0.32,0.26,20.43
+Cherry Wine, Fruit Growers Laboratory Inc,Illinois, Piatt,506, Sep 14,2020,9.57,0.39,0.15,24.71
+Cherry Wine, Cheyenne Mountain Seed Company, Indiana, Starke,407, Sep 8,2020,3.5,0.16,0.16,21.36
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,70, Oct 5,2020,3.27,0.14,0.17,23.21
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,443, Sep 14,2020,2.59,0.14,0.04,18.91
+Cherry Wine, Phyle Pharms, Michigan, Oakland,572, Sep 21,2020,5.91,0.23,0.28,25.76
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,69, Oct 5,2020,4.79,0.18,0.24,26.35
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,68, Oct 5,2020,4.65,0.21,0.2,22.38
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,67, Oct 5,2020,4.41,0.18,0.4,24.77
+Cherry Wine, Cheyenne Mountain Seed Company, Indiana, Starke,296, Aug 26,2020,2.77,0.14,0.04,19.92
+Cherry Wine, Phyle Pharms, Michigan, Oakland,417, Sep 9,2020,2.44,0.13,0.06,18.91
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,446, Sep 14,2020,1.98,0.09,0.13,21.63
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,70, Oct 5,2020,3.27,0.14,0.17,23.21
+Cherry Wine, Bear Mountain Hemp, Wisconsin, Oneida,499, Sep 14,2020,2.54,0.1,0.08,25.87
+Cherry Wine, Triple Barn Farms, Illinois, Jackson,744, Oct 13,2020,4.15,0.14,0.31,29.81
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,69, Oct 5,2020,4.79,0.18,0.24,26.35
+Cherry Wine, Sulcanna, Illinois, Saline,551, Sep 12,2020,6.62,0.32,0.26,20.43
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,706, Oct 5,2020,8.11,0.36,0.35,22.81
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,68, Oct 5,2020,4.65,0.21,0.2,22.38
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,67, Oct 5,2020,4.41,0.18,0.4,24.77
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,656, Sep 29,2020,5.4,0.22,0.23,24.12
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,66, Oct 5,2020,5.46,0.21,0.28,26.02
+Cherry Wine, Triple Barn Farms, Illinois, Iroquois,485, Sep 14,2020,3.81,0.2,0.19,19.4
+Cherry Wine, Half Moon Hemp, Indiana, Monroe,505, Sep 15,2020,5.1,0.23,0.22,21.97
+Cherry Wine, Fruit Growers Laboratory Inc,Illinois, Piatt,509, Sep 14,2020,12.64,0.54,0.24,23.48
+Cherry Wine, Mountain Flower Botanicals, Wisconsin, Walworth,65, Oct 5,2020,3.97,0.18,0.23,22.62
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Columbia,62, Oct 1,2020,3.58,0.72,0.28,4.96
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Walworth,114, Oct 15,2020,7.22,0.26,0.3,28
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Warrem,542, Sep 14,2020,1.98,0.11,0.08,18.59
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Walworth,525, Sep 17,2020,3.31,0.14,0.22,23.67
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Madison,652, Sep 28,2020,4.31,0.22,0.17,19.71
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Warren,181, Nov 3,2020,0,0,0, null
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Columbia,558, Sep 21,2020,4.2,0.18,0.3,23.78
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Walworth,666, Oct 1,2020,6.18,0.26,0.32,23.35
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Warrem,147, Oct 28,2020,1.77,0.05,0.02,38.1
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Warren,146, Oct 28,2020,5.75,0.19,0.31,29.58
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Columbia,72, Oct 5,2020,7.29,0.27,0.37,27.07
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Madison,541, Sep 15,2020,3.76,0.18,0.15,20.32
+Cherry Wine S1, Eastern Plains Hemp, Illinois, Warren,540, Sep 15,2020,2.99,0.14,0.11,21.94
+Cherry Wine S1, Eastern Plains Hemp, Wisconsin, Columbia,426, Sep 11,2020,4.18,0.18,0.11,23.68
+Cherry x Abacus, United Growers LLC, Wisconsin, Trempealeau,569, Sep 21,2020,6.29,0.26,0.13,24.26
+Cherry x Abacus, United Growers LLC, Wisconsin, Wood,568, Sep 21,2020,6.37,0.24,0.29,26.28
+Cherry x Abacus, United Growers LLC, Wisconsin, Wood,186, Nov 4,2020,11.95,0.39,0.19,30.67
+Cherry x Abacus, United Growers LLC, Wisconsin, Wood,366, Sep 2,2020,3.14,0.14,0.2,21.78
+Cherry x Abacus, United Growers LLC, Wisconsin, Wood,158, Oct 12,2020,11.37,0.37,0.22,30.96
+Cherry x Abacus, United Growers LLC, Wisconsin, Trempealeau,322, Aug 31,2020,3.07,0.15,0.18,21.03
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,590, Sep 24,2020,3.27,0.14,0.24,24.1
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,696, Oct 5,2020,2.2,0.09,0.11,23.26
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Grant,227, Aug 16,2020,2.01,0.09,0.1,22.61
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Waushara,226, Aug 16,2020,2.59,0.13,0.03,20.01
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,591, Sep 24,2020,2.29,0.11,0.14,20.1
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,592, Sep 23,2020,3.97,0.16,0.25,24.76
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Grant,655, Sep 29,2020,4.79,0.2,0.24,23.94
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,556, Sep 21,2020,2.44,0.1,0.14,23.34
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Grant,727, Oct 8,2020,3.15,0.15,0.2,20.67
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,472, Sep 14,2020,1.69,0.09,0.08,18.75
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,695, Oct 5,2020,3.92,0.15,0.18,25.37
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Grant,694, Oct 5,2020,3.03,0.13,0.17,24.09
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Grant,728, Oct 12,2020,2.11,0.22,0.14,9.68
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,408, Sep 7,2020,2.54,0.14,0.15,18.57
+Colorado Cherry, Wisconsin Hemp Kings, Wisconsin, Dane,557, Sep 21,2020,2.98,0.12,0.24,24.95
+Constance, Hemp 4 heros (H4H), Wisconsin, Dodge,311, Aug 30,2020,5.82,0.25,0.25,23.03
+Constance, Hemp 4 heros (H4H), Wisconsin, Dodge,312, Aug 30,2020,6.65,0.29,0.27,22.63
+Constance, Hemp 4 heros (H4H), Wisconsin, Dodge,207, Jul 27,2020,3.6,0.18,0.15,20.04
+Constance, Hemp 4 heros (H4H), Wisconsin, Dodge,36, Sep 24,2020,9.28,0.35,0.34,26.49
+Dream Tonic 5, High Alpine Genetics, Indiana, Delaware,397, Sep 8,2020,3.93,0.17,0.15,23.2
+Dream Tonic 5, High Alpine Genetics, Indiana, Delaware,473, Sep 14,2020,4.8,0.19,0.19,24.73
+Dream Tonic 5, High Alpine Genetics, Indiana, Delaware,274, Aug 24,2020,1.8,0.09,0.06,19.59
+EPG, Eastern Plains Hemp, Wisconsin, Columbia,30, Sep 21,2020,7.67,0.57,0.68,13.46
+EPG, Eastern Plains Hemp, Wisconsin, Walworth,113, Oct 15,2020,7.41,0.24,0.47,30.37
+EPG, Eastern Plains Hemp, Wisconsin, Walworth,662, Oct 1,2020,7.25,0.28,0.63,25.48
+EPG, Eastern Plains Hemp, Wisconsin, Columbia,428, Sep 11,2020,2.98,0.11,0.04,27.01
+EPG, Eastern Plains Hemp, Wisconsin, Walworth,520, Sep 17,2020,4.71,1.64,0.62,2.87
+EPG, Eastern Plains Hemp, Wisconsin, Columbia,257, Aug 24,2020,1.88,0.25,0.15,7.52
+Early Nueve, Beacon Hemp, Wisconsin, Walworth,423, Sep 11,2020,5.55,0.23,0.25,23.78
+Early Nueve, Beacon Hemp, Wisconsin, Columbia,433, Sep 11,2020,1.82,0.12,0.04,15.45
+Early Nueve, Beacon Hemp, Wisconsin, Columbia,24, Sep 21,2020,8.07,0.32,0.48,25.53
+Early Nueve, Beacon Hemp, Wisconsin, Walworth,291, Aug 27,2020,5.1,0.22,0.39,23.49
+Early Nueve, Beacon Hemp, Wisconsin, Walworth,37, Sep 24,2020,5.82,0.25,0.38,23.38
+Early Nueve, Beacon Hemp, Wisconsin, Columbia,264, Aug 24,2020,8.46,0.35,0.63,23.95
+Early Spectrum, Beacon Hemp, Wisconsin, Walworth,603, Sep 24,2020,7.35,0.3,0.55,24.56
+Early Spectrum, Beacon Hemp, Wisconsin, Columbia,459, Sep 14,2020,6.36,0.23,0.29,27.38
+Early Spectrum, Beacon Hemp, Wisconsin, Columbia,53, Sep 28,2020,12.89,0.44,0.54,29.14
+Early Spectrum, Beacon Hemp, Wisconsin, Walworth,88, Oct 7,2020,7.63,0.29,0.41,26.03
+Early Spectrum, Beacon Hemp, Wisconsin, Columbia,340, Sep 1,2020,3.49,0.16,0.2,21.19
+Early Spectrum, Beacon Hemp, Wisconsin, Walworth,421, Sep 11,2020,6.52,0.27,0.29,24.14
+Eclipse, Future Farm Hemp, Wisconsin, Eau Claire,61, Sep 30,2020,6.03,0.23,0.24,26.02
+Eclipse, Future Farm Hemp, Wisconsin, Eau Claire,369, Sep 3,2020,2.47,0.13,0.18,19.51
+Eclipse, Future Farm Hemp, Wisconsin, Eau Claire,567, Sep 17,2020,4.8,0.2,0.34,24.49
+Eighty Eight, Davis Hemp Farms, Wisconsin, Walworth,120, Oct 15,2020,4.61,0.17,0.27,27.49
+Eighty Eight, Davis Hemp Farms, Wisconsin, Columbia,430, Sep 11,2020,2.69,0.11,0.1,23.59
+Eighty Eight, Davis Hemp Farms, Wisconsin, Columbia,562, Sep 21,2020,4.66,0.19,0.31,24.15
+Eighty Eight, Davis Hemp Farms, Michigan, Kent,498, Sep 14,2020,6.42,0.24,0.24,26.22
+Eighty Eight, Davis Hemp Farms, Michigan, Kent,44, Sep 21,2020,9.19,0.35,0.35,26.19
+Eighty Eight, Davis Hemp Farms, Michigan, Kent,166, Oct 21,2020,9.03,0.3,0.25,30.55
+Eighty Eight, Davis Hemp Farms, Michigan, Kent,152, Sep 30,2020,8.59,0.32,0.15,27.2
+Eighty Eight, Davis Hemp Farms, Wisconsin, Columbia,71, Oct 5,2020,6.94,0.23,0.29,29.79
+Eighty Eight, Davis Hemp Farms, Wisconsin, Walworth,682, Oct 1,2020,4.08,0.16,0.25,25.78
+Eighty Eight, Davis Hemp Farms, Wisconsin, Walworth,531, Sep 17,2020,2.14,0.1,0.18,20.45
+Elektra, Oregon CBD, Illinois, Will,307, Sep 1,2020,4.32,0.21,0.19,20.93
+Eugenius CBD Blue Genius, Whispering Creek, Illinois, Madison,242, Aug 18,2020,2.36,0.12,0.23,19.95
+Eugenius CBD Blue Genius, Whispering Creek, Illinois, Madison,241, Aug 18,2020,2.87,0.17,0.26,17.32
+Eugenius CBD Blue Genius, Whispering Creek, Illinois, Madison,2, Sep 4,2020,9.74,0.4,0.35,24.14
+Eugenius CBD Blue Genius, Whispering Creek, Illinois, Madison,196, Nov 10,2020,8.34,0.35,0.12,23.95
+FL49, Sunrise Genetics, Wisconsin, Columbia,632, Sep 28,2020,8.6,0.28,0.17,30.3
+FL49, Sunrise Genetics, Wisconsin, Walworth,527, Sep 17,2020,5.01,0.21,0.27,24.02
+FL49, Sunrise Genetics, Wisconsin, Walworth,110, Oct 15,2020,10.33,0.35,0.21,29.9
+FL49, Sunrise Genetics, Wisconsin, Walworth,663, Oct 1,2020,8.26,0.34,0.34,24.04
+FL49, Sunrise Genetics, Wisconsin, Columbia,98, Oct 13,2020,11.8,0.41,0.26,28.91
+FL49, Sunrise Genetics, Wisconsin, Walworth,663, Oct 1,2020,8.26,0.34,0.34,24.04
+FL58, Sunrise Genetics, Wisconsin, Walworth,115, Oct 15,2020,8.84,0.32,0.42,27.24
+FL58, Sunrise Genetics, Wisconsin, Columbia,99, Oct 13,2020,10.1,0.35,0.44,28.91
+FL58, Sunrise Genetics, Wisconsin, Walworth,669, Oct 1,2020,8.85,0.33,0.48,26.83
+FL58, Sunrise Genetics, Wisconsin, Columbia,465, Sep 14,2020,4.19,0.14,0.16,30.25
+FL58, Sunrise Genetics, Wisconsin, Walworth,530, Sep 17,2020,4.96,0.23,0.37,21.27
+FL58, Sunrise Genetics, Wisconsin, Columbia,631, Sep 28,2020,5.94,0.18,0.28,32.26
+FL70, Sunrise Genetics, Wisconsin, Columbia,629, Sep 28,2020,9.64,0.31,0.37,31.21
+FL70, Sunrise Genetics, Wisconsin, Walworth,105, Oct 15,2020,10.02,0.32,0.28,31.4
+FL70, Sunrise Genetics, Wisconsin, Columbia,95, Oct 13,2020,13.7,0.48,0.55,28.53
+FL70, Sunrise Genetics, Wisconsin, Columbia,457, Sep 14,2020,4.35,0.15,0.2,28.71
+FL70, Sunrise Genetics, Wisconsin, Walworth,517, Sep 17,2020,6.02,0.26,0.42,23.56
+FL70, Sunrise Genetics, Wisconsin, Walworth,673, Oct 1,2020,10.16,0.39,0.42,26.18
+FL71, Sunrise Genetics, Wisconsin, Columbia,126, Oct 19,2020,9.76,0.33,0.23,29.33
+FL71, Sunrise Genetics, Wisconsin, Columbia,125, Oct 19,2020,6.74,0.24,0.14,28.24
+FL71, Sunrise Genetics, Wisconsin, Walworth,608, Sep 24,2020,3.8,0.15,0.26,24.9
+FL71, Sunrise Genetics, Wisconsin, Walworth,103, Oct 15,2020,5.18,0.19,1.41,27.99
+FL71, Sunrise Genetics, Wisconsin, Columbia,564, Sep 21,2020,3.1,0.11,0.18,27.9
+FL71, Sunrise Genetics, Wisconsin, Walworth,678, Oct 1,2020,0.79,0.11,3.29,7.17
+FL71, Sunrise Genetics, Wisconsin, Columbia,701, Oct 5,2020,8.65,0.3,0.21,28.67
+FL71, Sunrise Genetics, Wisconsin, Walworth,719, Oct 7,2020,6.16,0.21,0.3,28.77
+FL71, Sunrise Genetics, Wisconsin, Walworth,533, Sep 17,2020,1.43,0.08,1.13,18.21
+FL71, Sunrise Genetics, Wisconsin, Columbia,560, Sep 21,2020,3.26,0.14,0.2,23.62
+FL71, Sunrise Genetics, Wisconsin, Columbia,699, Oct 5,2020,6.59,0.23,0.15,28.16
+FL71, Sunrise Genetics, Wisconsin, Walworth,132, Oct 22,2020,7.5,0.26,0.16,28.32
+FL80, Sunrise Genetics, Wisconsin, Columbia,127, Oct 19,2020,9.26,0.32,0.43,28.74
+FL80, Sunrise Genetics, Wisconsin, Walworth,611, Sep 24,2020,6.71,0.25,0.45,27.23
+FL80, Sunrise Genetics, Wisconsin, Walworth,718, Oct 7,2020,9.5,0.34,0.5,28.11
+FL80, Sunrise Genetics, Wisconsin, Columbia,702, Oct 5,2020,7.87,0.28,0.36,28.07
+FL80, Sunrise Genetics, Wisconsin, Walworth,134, Oct 22,2020,10.51,0.39,0.28,26.93
+FL80, Sunrise Genetics, Wisconsin, Columbia,33, Sep 21,2020,3.77,0.16,0.25,24.1
+Florence, Infinite Tree, Wisconsin, Columbia,466, Sep 14,2020,2.58,0.1,0.16,24.72
+Florence, Infinite Tree, Wisconsin, Walworth,109, Oct 15,2020,5.77,0.21,0.43,27.36
+Florence, Infinite Tree, Wisconsin, Walworth,664, Oct 1,2020,5.44,0.25,0.36,21.93
+Florence, Infinite Tree, Wisconsin, Columbia,46, Sep 28,2020,5.95,0.19,0.42,30.87
+Florence, Infinite Tree, Wisconsin, Walworth,532, Sep 17,2020,2.63,0.12,0.25,22.65
+Florence, Infinite Tree, Wisconsin, Columbia,338, Sep 1,2020,2.34,0.11,0.19,20.72
+Franklin, Whispering Creek, Illinois, Madison,495, Sep 11,2020,3.12,0.15,0.16,20.68
+Frosted Lime 2019, Phytonyx, Illinois, Warren,738, Oct 7,2020,3.69,0.1,0.13,37.73
+Frosted Lime 2019, Phytonyx, Illinois, Warren,689, Sep 30,2020,9.54,0.36,0.38,26.52
+Frosted Lime 2020, Phytonyx, Illinois, Warren,737, Oct 7,2020,4.22,0.11,0.1,38.28
+Frosted Lime 2020, Phytonyx, Illinois, Warren,205, Nov 13,2020,9.11,0.32,0.5,28.91
+Grape Soda, Colorado Hemp Project, Illinois, Warren,741, Oct 7,2020,3.96,0.14,0.1,29.12
+Hawaiian Haze, Oregon CBD, Illinois, Warren,651, Sep 27,2020,8.6,0.42,0.14,20.24
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,222, Aug 12,2020,2.7,0.12,0.15,21.98
+Hawaiian Haze, GreenThumb Alternatives, Wisconsin, Wood,211, Aug 11,2020,6.41,0.31,0.14,20.84
+Hawaiian Haze, Oregon CBD, Illinois, Warren,732, Oct 12,2020,3.13,0.07,0.13,45.58
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,383, Sep 8,2020,11.63,0.46,0.61,25.07
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,370, Sep 3,2020,6.62,0.27,0.5,24.61
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,184, Nov 3,2020,17,0.61,0.27,28.07
+Hawaiian Haze, Oregon CBD, Illinois, Warren,545, Sep 14,2020,2.96,0.16,0.12,18.64
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,168, Oct 26,2020,15.58,0.56,0.31,28.07
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,554, Sep 21,2020,11.68,0.49,0.44,24.07
+Hawaiian Haze, High Plains Crop Production, Illinois, Madison,546, Sep 15,2020,1.19,0.11,0.05,11.08
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,82, Oct 6,2020,13.97,0.51,0.29,27.46
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,161, Oct 19,2020,15.34,0.57,0.37,26.9
+Hawaiian Haze, Oregon CBD, Wisconsin, Manitowoc,319, Aug 30,2020,7.17,0.3,0.45,23.97
+Hawaiian Haze, Oregon CBD, Illinois, Will,306, Sep 1,2020,4,0.2,0.25,19.73
+Hawaiian Haze, High Plains Crop Production, Illinois, Madison,145, Oct 28,2020,8.52,0.2,0.38,43.33
+Hempress 3, Seedified, Wisconsin, Columbia,29, Sep 21,2020,7.41,0.3,0.43,24.57
+Hempress 3, Seedified, Wisconsin, Walworth,106, Oct 15,2020,5.78,0.24,1.45,24.26
+Hempress 3, Seedified, Wisconsin, Walworth,534, Sep 17,2020,3.75,0.17,0.63,22.12
+Hempress 3, Seedified, Wisconsin, Columbia,435, Sep 11,2020,3.03,0.14,0.09,21.03
+Hempress 3, Seedified, Wisconsin, Walworth,671, Oct 1,2020,6.29,0.24,0.26,26.69
+Hot Blonde, Blue Forest Farms, Wisconsin, Walworth,717, Oct 7,2020,7.4,0.26,0.46,28.72
+Hot Blonde, Blue Forest Farms, Wisconsin, Columbia,335, Sep 1,2020,2.26,0.13,0.12,17.16
+Hot Blonde, Blue Forest Farms, Wisconsin, Columbia,151, Sep 28,2020,6.8,0.26,0.1,26.61
+Hot Blonde, Blue Forest Farms, Wisconsin, Columbia,470, Sep 14,2020,3.5,0.16,0.13,21.32
+Hot Blonde, Blue Forest Farms, Wisconsin, Walworth,137, Oct 22,2020,7.53,0.11,0.17,69.76
+Hot Blonde, Blue Forest Farms, Wisconsin, Walworth,616, Sep 24,2020,4.9,0.21,0.41,23.63
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,230, Aug 18,2020,2.16,0.11,0.09,20.41
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,215, Aug 10,2020,1.88,0.09,0.07,20.16
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,104, Oct 15,2020,6.44,0.2,0.24,31.71
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,681, Oct 1,2020,4.92,0.22,0.19,22.17
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,528, Sep 17,2020,4.11,0.22,0.23,18.69
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,723, Oct 7,2020,8.18,0.3,0.31,27.31
+Hybrid #5, Front Range Biosciences, Illinois, Kane,360, Aug 31,2020,2.19,0.12,0.07,18.48
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,347, Sep 1,2020,2.02,0.13,0.07,15.04
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,346, Sep 1,2020,3.39,0.16,0.16,20.98
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,422, Sep 11,2020,5.51,0.24,0.18,22.99
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,463, Sep 14,2020,4.18,0.15,0.15,27.91
+Hybrid #5, Front Range Biosciences, Wisconsin, Walworth,606, Sep 24,2020,7.56,0.34,0.44,22.57
+Hybrid #5, Front Range Biosciences, Illinois, Kane,653, Sep 28,2020,10.2,0.08,0.2,123.03
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,16, Sep 14,2020,5.09,0.19,0.23,27.07
+Hybrid #5, Front Range Biosciences, Wisconsin, Columbia,50, Sep 28,2020,9.04,0.37,0.35,24.68
+Hybrid #9, Front Range Biosciences, Wisconsin, Fond du Lac,249, Aug 20,2020,2.6,0.12,0.15,21.31
+Hybrid #9, Front Range Biosciences, Wisconsin, Columbia,436, Sep 11,2020,7.44,0.26,0.33,28.15
+Hybrid #9, Front Range Biosciences, Wisconsin, Walworth,111, Oct 15,2020,7.48,0.24,0.3,31.64
+Hybrid #9, Front Range Biosciences, Wisconsin, Fond du Lac,217, Aug 11,2020,2.67,0.13,0.15,20.07
+Hybrid #9, Front Range Biosciences, Wisconsin, Fond du Lac,729, Oct 13,2020,7.43,0.29,0.3,25.62
+Hybrid #9, Front Range Biosciences, Illinois, Kane,726, Oct 7,2020,10.72,0.34,0.49,31.47
+Hybrid #9, Front Range Biosciences, Wisconsin, Walworth,674, Oct 1,2020,6.06,0.24,0.27,25.78
+Hybrid #9, Front Range Biosciences, Wisconsin, Fond du Lac,390, Sep 9,2020,2.91,0.14,0.16,20.11
+Hybrid #9, Front Range Biosciences, Wisconsin, Columbia,566, Sep 21,2020,5.52,0.21,0.35,25.82
+Hybrid #9, Front Range Biosciences, Wisconsin, Walworth,529, Sep 17,2020,4.06,0.19,0.27,21.91
+Hybrid #9, Front Range Biosciences, Illinois, Kane,654, Sep 28,2020,8.01,0.31,0.32,26.23
+Hybrid #9, Front Range Biosciences, Illinois, Kane,361, Aug 31,2020,2.22,0.11,0.14,20.95
+Hybrid #9, Front Range Biosciences, Wisconsin, Columbia,74, Oct 5,2020,8.82,0.3,0.4,29.71
+ICE CBG, Sulcanna, Illinois, Lee,59, Sep 29,2020,0.74,0.08,3.2,9.58
+ICE CBG, Sulcanna, Illinois, Lee,327, Sep 1,2020,0,0.07,2.92,0
+ICE CBG, Sulcanna, Illinois, Champaign,579, Sep 23,2020,0,0.11,4.59,0
+Letter of Intent, The Plug Supply, Wisconsin, Jefferson,378, Sep 11,2020,8.31,0.34,0.5,24.32
+Letter of Intent, The Plug Supply, Wisconsin, Dane,359, Sep 3,2020,2.71,0.13,0.37,20.73
+Lifter, Oregon CBD, Illinois, Pike,236, Aug 17,2020,4.65,0.21,0.13,21.73
+Lifter, Oregon CBD, Wisconsin, Manitowoc,452, Sep 14,2020,12.55,0.46,0.61,27.22
+Lifter, Oregon CBD, Wisconsin, Manitowoc,223, Aug 12,2020,3.16,0.15,0.22,20.78
+Lifter, Oregon CBD, Wisconsin, Manitowoc,192, Nov 9,2020,11.87,0.43,0.22,27.82
+Lifter, Oregon CBD, Wisconsin, Manitowoc,382, Sep 8,2020,11.45,0.43,0.55,26.9
+Lifter, Oregon CBD, Wisconsin, Manitowoc,22, Sep 21,2020,14.9,0.57,0.56,26.12
+Lifter, Oregon CBD, Wisconsin, Manitowoc,176, Oct 29,2020,16.18,0.59,0.28,27.35
+Lifter, Oregon CBD, Wisconsin, Manitowoc,21, Sep 21,2020,12.54,0.5,0.52,25.16
+Lifter, Hemp 4 heros (H4H), Wisconsin, Dodge,595, Sep 24,2020,7.44,0.29,0.42,25.66
+Lifter, Oregon CBD, Wisconsin, Manitowoc,20, Sep 21,2020,13.21,0.49,0.44,27.04
+Lifter, Oregon CBD, Wisconsin, Manitowoc,320, Aug 30,2020,9.84,0.44,0.44,22.21
+Lifter, Oregon CBD, Wisconsin, Manitowoc,160, Oct 19,2020,17.65,0.33,0.42,53.12
+Lifter, Oregon CBD, Wisconsin, Manitowoc,317, Aug 30,2020,12.68,0.53,0.25,23.85
+Lifter, Hemp 4 heros (H4H), Wisconsin, Dodge,313, Aug 30,2020,2.51,0.12,0.24,20.31
+Lifter, Oregon CBD, Wisconsin, Manitowoc,154, Oct 6,2020,13.49,0.48,0.26,27.91
+Lifter, Oregon CBD, Illinois, Will,303, Sep 1,2020,6.83,0.33,0.26,20.5
+Lifter, Oregon CBD, Illinois, Pike,276, Aug 24,2020,8.7,0.42,0.37,20.84
+Magic Bullet (MB), Stoney Branch AgVentures, Illinois, Adams,725, Sep 28,2020,11.75,0.42,0.75,27.9
+Magic Bullet (MB), Stoney Branch AgVentures, Illinois, Adams,645, Sep 28,2020,8.07,0.32,0.49,25.41
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,748, Sep 21,2020,0.24,0.09,6.91,2.64
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,639, Sep 28,2020,0.15,0.06,4.41,2.44
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,713, Oct 6,2020,0.54,0.05,6.7,9.82
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,712, Oct 6,2020,0.32,0.08,7.15,3.84
+Matterhorn CBG, Fruit Growers Laboratory Inc,Illinois, Piatt,204, Nov 12,2020,0.8,0.02,9.71,50.94
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,199, Nov 11,2020,0.1,0.02,1.47,4.26
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,393, Sep 8,2020,0.33,0.03,5.58,10.54
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,391, Sep 8,2020,0.15,0.05,7.13,3.07
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,641, Sep 28,2020,0.29,0.1,5.79,3.03
+Matterhorn CBG, Fruit Growers Laboratory Inc,Illinois, Piatt,510, Sep 14,2020,0.1,0.07,6.04,1.44
+Matterhorn CBG, Fruit Growers Laboratory Inc,Illinois, Piatt,508, Sep 14,2020,0.55,0.08,7.91,7.23
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,282, Aug 25,2020,0.06,0.04,1.79,1.48
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,281, Aug 25,2020,0.11,0.07,2.31,1.57
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,280, Aug 25,2020,0.09,0.03,1.94,3.28
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,130, Oct 20,2020,0.53,0.14,8.72,3.8
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,129, Oct 20,2020,0.34,0,5.87, null
+Matterhorn CBG, High Grade Hemp Seed, Michigan, Grand Traverse,750, Sep 21,2020,0.56,0.04,6.74,12.72
+Maverick, Kayagene, Wisconsin, Columbia,232, Aug 18,2020,3.65,0.15,0.32,23.73
+Maverick, Kayagene, Wisconsin, Columbia,14, Sep 14,2020,6.98,0.26,0.34,26.58
+Maverick, Kayagene, Wisconsin, Columbia,214, Aug 10,2020,1.83,0.08,0.1,24.09
+Maverick, Kayagene, Wisconsin, Columbia,334, Sep 1,2020,5.49,0.21,0.33,25.7
+Merlot, High Grade Hemp Seed, Michigan, Grand Traverse,749, Sep 21,2020,9.59,0.35,0.15,27.1
+Merlot, High Grade Hemp Seed, Michigan, Grand Traverse,201, Nov 11,2020,2.19,0.63,0.83,3.45
+Merlot, High Grade Hemp Seed, Michigan, Grand Traverse,392, Sep 8,2020,6.42,0.28,0.37,23.25
+Merlot, High Grade Hemp Seed, Michigan, Grand Traverse,640, Sep 28,2020,8.85,0.37,0.14,24.09
+Merlot, High Grade Hemp Seed, Michigan, Grand Traverse,284, Aug 25,2020,2.9,0.14,0.12,20.71
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Crawford,193, Nov 11,2020,11.15,0.39,0.16,28.9
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Jefferson,377, Sep 11,2020,4.55,0.2,0.2,23.31
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Crawford,183, Nov 2,2020,11.75,0.4,0.16,29.22
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Crawford,555, Sep 21,2020,6.12,0.23,0.21,26.22
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Crawford,647, Sep 29,2020,8.76,0.33,0.35,26.87
+Midwest Strain, Jupiter Ag Seed, Wisconsin, Crawford,646, Sep 29,2020,8.68,0.34,0.32,25.65
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,747, Oct 15,2020,6.56,0.22,0.05,29.47
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,683, Oct 2,2020,5.62,0.2,0.17,28.79
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,619, Sep 25,2020,3.87,0.16,0.07,24.35
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,414, Sep 10,2020,1.92,0.1,0.03,18.63
+Mountain Mango, Cheyenne Mountain Seed Company, Indiana, Starke,406, Sep 8,2020,1.71,0.1,0,17.43
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,365, Sep 4,2020,1.56,0.09,0.08,17.56
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,538, Sep 17,2020,1.71,0.08,0.1,22.7
+Mountain Mango, Cheyenne Mountain Seed Company, Indiana, Starke,297, Aug 26,2020,1.76,0.11,0,16.25
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,293, Aug 27,2020,1.76,0.09,0.05,19.43
+Mountain Mango, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,131, Oct 22,2020,6.59,0.21,0.03,31.14
+Nepalese Tonic, High Alpine Genetics, Indiana, Delaware,476, Sep 14,2020,8.46,0.34,0.15,24.92
+Nepalese Tonic, High Alpine Genetics, Indiana, Delaware,401, Sep 8,2020,6.73,0.28,0.13,24.08
+Nepalese Tonic, High Alpine Genetics, Indiana, Delaware,271, Aug 24,2020,3.05,0.14,0.03,21.71
+Oregon Watermelon, FBHS LLC, Wisconsin, Lafayette,491, Sep 14,2020,2.48,0.15,0.12,16.94
+Oregon Watermelon, FBHS LLC, Wisconsin, Lafayette,635, Sep 28,2020,2.99,0.12,0.18,24.5
+Otto 2 x AC/DC, Winter Fox Farms, Illinois, Will,309, Sep 1,2020,1.71,0.71,0.06,2.39
+Otto 2 x BaOx, AgraPharm, Wisconsin, Grant,753, Oct 1,2020,2.53,0.26,0.17,9.63
+Otto 2 x BaOx, Colorado Breeders Company, Wisconsin, Dunn,240, Aug 20,2020,2.8,0.13,0.22,21.65
+Otto 2 x BaOx, Colorado Breeders Company, Wisconsin, Dunn,239, Aug 20,2020,2.4,0.28,0.11,8.62
+Otto 2 x BaOx, Colorado Breeders Company, Wisconsin, Dunn,208, Aug 6,2020,2.64,0.08,0.3,34.44
+Otto II Stout, Kifcure, Wisconsin, Walworth,716, Oct 7,2020,4.45,0.17,0.34,25.99
+Otto II Stout, Kifcure, Wisconsin, Columbia,434, Sep 11,2020,5.26,0.21,0.2,24.66
+Otto II Stout, Kifcure, Wisconsin, Walworth,613, Sep 24,2020,5.22,0.22,0.39,23.24
+Otto II Stout, Kifcure, Wisconsin, Walworth,140, Oct 22,2020,5.37,0.18,0.28,30.56
+Otto II Stout, Kifcure, Wisconsin, Columbia,34, Sep 21,2020,2.11,0.09,0.16,23.41
+Otto II Stout, Kifcure, Wisconsin, Columbia,260, Aug 24,2020,1.75,0.09,0.08,20.29
+Painted Lady, Davis Hemp Farms, Wisconsin, Walworth,118, Oct 15,2020,6.81,0.24,0.35,28.26
+Painted Lady, Davis Hemp Farms, Wisconsin, Columbia,429, Sep 11,2020,2.57,0.1,0.07,25.97
+Painted Lady, Davis Hemp Farms, Wisconsin, Walworth,670, Oct 1,2020,5.16,0.2,0.25,25.61
+Painted Lady, Davis Hemp Farms, Wisconsin, Walworth,524, Sep 17,2020,2.19,0.14,0.19,15.8
+Painted Lady, Davis Hemp Farms, Wisconsin, Columbia,565, Sep 21,2020,3.55,0.14,0.26,25.04
+Painted Lady, Davis Hemp Farms, Wisconsin, Columbia,75, Oct 5,2020,7.22,0.25,0.34,29.03
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,247, Aug 20,2020,0,0,3.68, null
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,220, Aug 11,2020,0,0,2.35, null
+Panakeia, Front Range Biosciences, Wisconsin, Columbia,440, Sep 11,2020,0,0.03,6.44,0
+Panakeia, Front Range Biosciences, Wisconsin, Columbia,216, Aug 10,2020,0,0,2.14, null
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,386, Sep 9,2020,0.03,0,8.48, null
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,156, Oct 13,2020,0,0.05,7.89,0
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,18, Sep 17,2020,0,0.02,7.05,0
+Panakeia, Front Range Biosciences, Wisconsin, Fond du Lac,148, Sep 24,2020,0.04,0.04,6.96,1
+Panakeia, Front Range Biosciences, Wisconsin, Walworth,289, Aug 27,2020,0.02,0,4.55, null
+Panakeia, Front Range Biosciences, Wisconsin, Columbia,267, Aug 24,2020,0,0.02,3.47,0
+Panakeia, Front Range Biosciences, Wisconsin, Walworth,9, Sep 11,2020,0.03,0.03,7.56,1.07
+Pepe Le Pew, Illinois Hemp Project, Illinois, Kendall,299, Aug 21,2020,6.89,0.28,0.44,24.82
+Pepe Le Pew, Illinois Hemp Project, Illinois, Kendall,150, Sep 19,2020,13.97,0.58,0.41,23.94
+Pipeline, Kayagene, Wisconsin, Columbia,231, Aug 18,2020,2.57,0.14,0.22,18.74
+Pipeline, Kayagene, Wisconsin, Columbia,231, Aug 18,2020,2.57,0.14,0.22,18.74
+Pipeline, Kayagene, Wisconsin, Columbia,213, Aug 10,2020,1.53,0.09,0.09,17.75
+Pipeline, Kayagene, Wisconsin, Columbia,13, Sep 14,2020,4.69,0.21,0.2,22.45
+Pipeline, Kayagene, Wisconsin, Columbia,336, Sep 1,2020,4.32,0.21,0.22,20.8
+Pipeline, Kayagene, Wisconsin, Walworth,292, Aug 27,2020,3,0.17,0.12,17.73
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Walworth,116, Oct 15,2020,6.77,0.25,0.18,27.41
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Columbia,462, Sep 14,2020,4.89,0.18,0.2,27.01
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Walworth,676, Oct 1,2020,6.13,0.25,0.32,24.7
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Columbia,55, Sep 28,2020,7.24,0.27,0.12,26.68
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Columbia,345, Sep 1,2020,2.29,0.12,0.15,19.09
+Prairie Wine, Eastern Plains Hemp, Wisconsin, Walworth,522, Sep 17,2020,6.94,0.28,0.38,25.01
+Presidential, Sulcanna, Illinois, Rock Island,188, Nov 9,2020,7.5,0.29,0.07,26.23
+Presidential, Sulcanna, Illinois, Rock Island,187, Nov 9,2020,6.33,1.37,0.07,4.62
+Presidential, Sulcanna, Illinois, Rock Island,367, Sep 3,2020,3.44,0.42,0.25,8.1
+Presidential, Sulcanna, Illinois, Saline,350, Aug 26,2020,2.21,0.14,0.08,15.6
+Presidential, Sulcanna, Illinois, Rock Island,709, Oct 6,2020,9.82,0.34,0.19,28.55
+Presidential, Sulcanna, Illinois, Rock Island,589, Sep 23,2020,8.68,0.65,0.39,13.29
+Presidential, Sulcanna, Illinois, Champaign,577, Sep 23,2020,2.45,0.14,0.14,17.94
+Presidential, Sulcanna, Illinois, Saline,552, Sep 12,2020,5.29,0.25,0.1,20.8
+Proof of Life, The Plug Supply, Wisconsin, Jefferson,379, Sep 11,2020,6.99,0.27,0.47,25.47
+Pure CBD, PureGene, Wisconsin, Columbia,700, Oct 5,2020,11.13,0.41,0.42,27.45
+Pure CBD, PureGene, Wisconsin, Columbia,456, Sep 14,2020,3.51,0.13,0.15,27.25
+Pure CBD, PureGene, Wisconsin, Columbia,441, Sep 14,2020,1.54,0.11,0.03,13.79
+Pure CBD, PureGene, Wisconsin, Columbia,630, Sep 28,2020,7.1,0.24,0.39,29.56
+Pure CBD, PureGene, Wisconsin, Columbia,96, Oct 13,2020,11.43,0.38,0.61,29.74
+Pure CBD, PureGene, Wisconsin, Walworth,612, Sep 24,2020,6.18,0.29,0.56,21.57
+Pure CBD, PureGene, Wisconsin, Walworth,373, Sep 4,2020,5,0.21,0.2,23.82
+Pure CBD, PureGene, Wisconsin, Walworth,91, Oct 7,2020,10.18,0.37,0.64,27.71
+Pure CBD, PureGene, Wisconsin, Walworth,668, Oct 1,2020,8.61,0.35,0.29,24.57
+Pure CBD, PureGene, Wisconsin, Walworth,141, Oct 22,2020,11.46,0.41,0.64,28.16
+Pure CBD, PureGene, Wisconsin, Columbia,559, Sep 21,2020,8.17,0.3,0.47,27.12
+Pure CBD, PureGene, Wisconsin, Walworth,526, Sep 17,2020,2.89,0.15,0.3,19.82
+Pure CBD, PureGene, Wisconsin, Walworth,515, Sep 17,2020,8.2,0.36,0.35,23.07
+Pure CBG, PureGene, Wisconsin, Walworth,677, Oct 1,2020,0.03,0.08,3.62,0.38
+Pure CBG, Front Range Biosciences, Wisconsin, Columbia,460, Sep 14,2020,0,0.02,2.34,0
+Pure CBG, PureGene, Wisconsin, Columbia,458, Sep 14,2020,0.09,0.03,1.93,3.06
+Pure CBG, PureGene, Wisconsin, Columbia,54, Sep 28,2020,0,0.03,2.68,0
+Pure CBG, Front Range Biosciences, Wisconsin, Walworth,108, Oct 15,2020,0.06,0.04,4.07,1.51
+Pure CBG, PureGene, Wisconsin, Columbia,425, Sep 11,2020,2.51,0.12,0.03,20.76
+Pure CBG, Front Range Biosciences, Wisconsin, Columbia,48, Sep 28,2020,0,0.04,3.34,0
+Pure CBG, Front Range Biosciences, Wisconsin, Walworth,667, Oct 1,2020,0.03,0.08,3.52,0.41
+Pure CBG, PureGene, Wisconsin, Columbia,344, Sep 1,2020,0,0,1.4, null
+Pure CBG, Front Range Biosciences, Wisconsin, Columbia,339, Sep 1,2020,0,0,2.09, null
+Pure CBG, Front Range Biosciences, Wisconsin, Walworth,721, Oct 7,2020,3.34,0.17,2.37,19.76
+Pure CBG, PureGene, Wisconsin, Walworth,745, Oct 15,2020,0,0.09,4.81,0
+Pure CBG, Front Range Biosciences, Wisconsin, Walworth,604, Sep 24,2020,1.25,0.1,2.55,13.12
+Pure CBG, PureGene, Wisconsin, Columbia,32, Sep 21,2020,0,0.09,4.51,0
+Pure CBG, Front Range Biosciences, Wisconsin, Walworth,521, Sep 17,2020,0.06,0.08,3.02,0.68
+Pure CBG, Front Range Biosciences, Wisconsin, Columbia,258, Aug 24,2020,0,0.04,1.35,0
+Pure CBG, PureGene, Wisconsin, Walworth,516, Sep 17,2020,0.04,0.09,3.77,0.44
+Pure CBG, PureGene, Wisconsin, Walworth,135, Oct 22,2020,4.38,0.19,2.26,22.58
+Queen Dream, Blue Forest Farms, Wisconsin, Walworth,714, Oct 7,2020,7.33,0.25,0.38,29
+Queen Dream, Blue Forest Farms, Wisconsin, Columbia,461, Sep 14,2020,4.46,0.18,0.21,24.15
+Queen Dream, Blue Forest Farms, Wisconsin, Columbia,49, Sep 28,2020,6.52,0.22,0.24,29.68
+Queen Dream, Blue Forest Farms, Wisconsin, Walworth,615, Sep 24,2020,6.28,0.26,0.44,24.39
+Queen Dream, Blue Forest Farms, Wisconsin, Columbia,342, Sep 1,2020,2.01,0.13,0.13,15.52
+Queen Dream, Blue Forest Farms, Wisconsin, Walworth,138, Oct 22,2020,6.93,0.18,0.12,39.48
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,415, Sep 10,2020,3.14,0.14,0.12,22.83
+Quick Kush, Cheyenne Mountain Seed Company, Indiana, Starke,405, Sep 8,2020,3.12,0.15,0.08,20.91
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,364, Sep 4,2020,2.32,0.12,0.11,19.42
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,618, Sep 25,2020,8.28,0.31,0.13,26.96
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,684, Oct 2,2020,8.72,0.31,0.17,27.75
+Quick Kush, Cheyenne Mountain Seed Company, Indiana, Starke,298, Aug 26,2020,2.5,0.1,0.03,26.05
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,746, Oct 15,2020,8.53,0.25,0.09,33.56
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,294, Aug 27,2020,2.22,0.11,0.07,21
+Quick Kush, Cheyenne Mountain Seed Company, Wisconsin, Waukesha,539, Sep 17,2020,3.57,0.13,0.21,27.35
+Refined Wine, Illinois Hemp Project, Illinois, Kendall,144, Oct 21,2020,8.27,0.28,0.08,29.65
+Refined Wine, Illinois Hemp Project, Illinois, Kendall,143, Oct 21,2020,6.35,0.24,0.06,26.2
+Relief CBG, Sourced in Nature, Wisconsin, Vilas,492, Sep 15,2020,0,0.09,7.88,0
+Relief CBG, Sourced in Nature, Wisconsin, Trempealeau,450, Sep 14,2020,0,0.17,9.27,0
+Relief CBG, Sourced in Nature, Wisconsin, Trempealeau,384, Sep 8,2020,0.03,0.1,8.4,0.26
+Relief CBG, Sourced in Nature, Wisconsin, Vilas,84, Oct 5,2020,0.03,0.1,6.73,0.26
+Relief CBG, Sourced in Nature, Wisconsin, Trempealeau,332, Sep 3,2020,0,0.1,6.78,0
+Remedy Kush, Illinois Hemp Project, Illinois, Kendall,42, Sep 22,2020,5.09,0.17,0.2,30.33
+Remedy Kush, Illinois Hemp Project, Illinois, Kendall,41, Sep 22,2020,4.71,0.18,0.22,25.85
+Ruby #1, Green Lynx Farms, Wisconsin, Walworth,112, Oct 15,2020,7.44,0.26,0.35,29.03
+Ruby #1, Green Lynx Farms, Wisconsin, Columbia,427, Sep 11,2020,4.42,0.4,0.31,11.07
+Ruby #1, Green Lynx Farms, Wisconsin, Columbia,25, Sep 21,2020,6.15,0.24,0.41,26.04
+Ruby #1, Green Lynx Farms, Wisconsin, Walworth,661, Oct 1,2020,6.8,0.25,0.29,27.47
+Ruby #1, Green Lynx Farms, Wisconsin, Columbia,262, Aug 24,2020,3.01,0.14,0.16,21.04
+Ruby #1, Green Lynx Farms, Wisconsin, Walworth,519, Sep 17,2020,3.88,0.18,0.3,21.79
+SB1, Sunrise Genetics, Wisconsin, Walworth,246, Aug 20,2020,2.46,0.13,0.31,19.09
+SB1, Sunrise Genetics, Wisconsin, Columbia,27, Sep 21,2020,6.34,0.24,0.29,26.37
+SB1, Sunrise Genetics, Wisconsin, Walworth,375, Sep 4,2020,5.95,0.26,0.34,22.98
+SB1, Sunrise Genetics, Wisconsin, Columbia,10, Sep 11,2020,6.81,0.28,0.23,24.6
+SB1, Sunrise Genetics, Wisconsin, Walworth,17, Sep 17,2020,7.53,0.31,0.29,24.63
+SB1, Sunrise Genetics, Wisconsin, Columbia,266, Aug 24,2020,3.48,0.19,0.25,18.44
+Sangria, Trilogene Seeds, Illinois, Boone,600, Sep 23,2020,3.44,0.16,0.32,21.38
+Sangria, Trilogene Seeds, Illinois, Boone,94, Oct 7,2020,5.4,0.2,0.29,26.91
+Sangria, Trilogene Seeds, Illinois, Boone,175, Oct 28,2020,4.1,0.16,0.2,26.12
+Sangria, Trilogene Seeds, Illinois, Boone,536, Sep 16,2020,3.34,0.14,0.35,24.72
+Scarlet, Colorado Hemp Project, Illinois, Warren,740, Oct 7,2020,5.67,0.14,0.11,39.78
+Scarlet, Colorado Hemp Project, Illinois, Warren,685, Sep 30,2020,9.68,0.38,0.4,25.42
+Serenity CBG, Phytonyx, Illinois, Warren,739, Oct 7,2020,4.07,0.12,2.03,35.21
+Silver Lining, Eastern Plains Hemp, Wisconsin, Columbia,469, Sep 14,2020,2.73,0.12,0.12,22.92
+Silver Lining, Eastern Plains Hemp, Wisconsin, Walworth,117, Oct 15,2020,8.19,0.3,0.44,26.9
+Silver Lining, Eastern Plains Hemp, Wisconsin, Walworth,680, Oct 1,2020,7.19,0.29,0.4,25.16
+Silver Lining, Eastern Plains Hemp, Wisconsin, Columbia,97, Oct 13,2020,12.19,0.4,0.58,30.39
+Silver Lining, Eastern Plains Hemp, Wisconsin, Columbia,636, Sep 28,2020,9.06,0.34,0.36,27.01
+Silver Lining, Eastern Plains Hemp, Wisconsin, Walworth,514, Sep 17,2020,3.84,0.16,0.24,24.73
+Siskiyou Gold, Phytonyx, Illinois, Tazewell,482, Sep 14,2020,6.68,0.3,0.44,21.95
+Siskiyou Gold, Phytonyx, Illinois, Warren,736, Oct 7,2020,4.01,0.1,0.08,40.88
+Siskiyou Gold, Phytonyx, Illinois, Tazewell,210, Aug 7,2020,6.02,0.25,0.14,24.24
+Siskiyou Gold, Phytonyx, Illinois, Warren,688, Sep 30,2020,7.86,0.29,0.13,26.86
+Siskiyou Gold, Phytonyx, Illinois, Tazewell,325, Aug 31,2020,6,0.26,0.24,22.73
+Siskiyou Gold, Phytonyx, Illinois, Tazewell,78, Oct 5,2020,10.9,0.42,0.58,26.13
+Skunkberry, Illinois Hemp Project, Illinois, Kendall,621, Sep 22,2020,2.13,0.15,0.17,14.22
+Skunkberry, Illinois Hemp Project, Illinois, Kendall,142, Oct 21,2020,10.06,0.35,0.17,28.77
+Socati, Boring Hemp Co,Wisconsin, Columbia,15, Sep 14,2020,5.44,0.59,0.3,9.21
+Socati, Boring Hemp Co,Wisconsin, Columbia,233, Aug 18,2020,2.07,0.15,0.23,13.53
+Socati, Boring Hemp Co,Wisconsin, Columbia,212, Aug 10,2020,0.82,0.12,0.06,6.89
+Socati, Boring Hemp Co,Wisconsin, Walworth,6, Sep 11,2020,5.26,0.25,0.28,20.87
+Socati, Boring Hemp Co,Wisconsin, Columbia,333, Sep 1,2020,3.81,0.31,0.23,12.25
+Socati, Boring Hemp Co,Wisconsin, Walworth,290, Aug 27,2020,3.97,0.18,0.2,22.36
+Sour G, Oregon CBD, Illinois, Will,302, Sep 1,2020,0.03,0.09,7.74,0.33
+Sour Space Candy, West Star Hemp Co,Wisconsin, Waukesha,254, Aug 24,2020,3.93,0.19,0.18,20.85
+Sour Space Candy, Hemp 4 heros (H4H), Wisconsin, Dodge,101, Oct 15,2020,6.59,0.26,0.31,25.74
+Sour Space Candy, West Star Hemp Co,Wisconsin, Waukesha,5, Sep 9,2020,8.64,0.33,0.36,26
+Sour Space Candy, Oregon CBD, Illinois, Warren,733, Oct 12,2020,3.85,0.06,0.08,59.8
+Sour Space Candy, West Star Hemp Co,Wisconsin, Waukesha,330, Sep 1,2020,6.14,0.27,0.31,22.44
+Sour Space Candy, Oregon CBD, Illinois, Warren,650, Sep 27,2020,7.34,0.07,0.51,101.53
+Sour Space Candy, Hemp 4 heros (H4H), Wisconsin, Dodge,310, Aug 30,2020,3.11,0.14,0.22,22.03
+Sour Space Candy, Oregon CBD, Illinois, Will,304, Sep 1,2020,5.85,0.28,0.1,21.27
+Sour Space Candy, Hemp 4 heros (H4H), Wisconsin, Dodge,594, Sep 24,2020,5.95,0.23,0.32,25.63
+Sour Space Candy, Oregon CBD, Illinois, Warren,543, Sep 14,2020,3.83,0.2,0.14,19.32
+Special Sauce, West Star Hemp Co,Wisconsin, Waukesha,253, Aug 24,2020,3.7,0.17,0.21,22.15
+Special Sauce, Oregon CBD, Illinois, Pike,237, Aug 17,2020,4.68,0.21,0.15,22.09
+Special Sauce, West Star Hemp Co,Wisconsin, Waukesha,4, Sep 9,2020,8.9,0.37,0.45,24.29
+Special Sauce, Oregon CBD, Wisconsin, Manitowoc,177, Oct 29,2020,14.26,0.5,0.29,28.34
+Special Sauce, West Star Hemp Co,Wisconsin, Waukesha,331, Sep 1,2020,5.17,0.25,0.34,20.42
+Special Sauce, Oregon CBD, Wisconsin, Manitowoc,163, Oct 19,2020,16.96,0.59,0.32,28.7
+Special Sauce, Oregon CBD, Wisconsin, Manitowoc,321, Aug 30,2020,8.39,0.35,0.42,24.19
+Special Sauce, Oregon CBD, Illinois, Pike,277, Aug 24,2020,7.67,0.36,0.35,21.6
+StemCell CBG, Oregon CBD, Illinois, Pike,235, Aug 17,2020,0,0.05,4.42,0
+StemCell CBG, Oregon CBD, Illinois, Pike,278, Aug 24,2020,0.04,0.06,7.01,0.62
+Stormy, Blue Forest Farms, Wisconsin, Columbia,438, Sep 11,2020,3.63,0.18,0.03,20.42
+Stormy, Blue Forest Farms, Wisconsin, Walworth,720, Oct 7,2020,6.82,0.23,0.45,29.28
+Stormy, Blue Forest Farms, Wisconsin, Columbia,23, Sep 21,2020,3.81,0.15,0.31,25.71
+Stormy, Blue Forest Farms, Wisconsin, Walworth,609, Sep 24,2020,4.65,0.19,0.39,24.36
+Stormy, Blue Forest Farms, Wisconsin, Walworth,136, Oct 22,2020,7.15,0.25,0.14,28.58
+Stormy, Blue Forest Farms, Wisconsin, Columbia,259, Aug 24,2020,2.08,0.11,0.12,18.15
+Stray Kat SK1, High Plains Crop Production, Illinois, Jackson,198, Nov 10,2020,3.7,0.16,0.21,23.02
+Superwoman, Trilogene Seeds, Illinois, Boone,93, Oct 7,2020,5.44,0.19,0.28,28.21
+Superwoman, Trilogene Seeds, Illinois, Boone,174, Oct 28,2020,5.9,0.2,0.05,29.52
+Superwoman, Trilogene Seeds, Illinois, Boone,599, Sep 23,2020,2.38,0.15,0.27,16.3
+Superwoman, Trilogene Seeds, Illinois, Boone,535, Sep 16,2020,1.91,0.1,0.25,20.05
+Suver Haze, Oregon CBD, Illinois, Pike,234, Aug 17,2020,6.22,0.29,0.24,21.64
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,228, Aug 18,2020,3.34,0.15,0.22,22.04
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,224, Aug 12,2020,3.27,0.16,0.2,20.81
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,358, Sep 2,2020,9.84,0.38,0.44,25.97
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,167, Oct 26,2020,17.99,0.63,0.39,28.43
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,11, Sep 14,2020,11.66,0.45,0.49,26.13
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,162, Oct 19,2020,17.49,0.34,0.66,51.4
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,318, Aug 30,2020,7.04,0.3,0.39,23.69
+Suver Haze, Oregon CBD, Wisconsin, Manitowoc,153, Oct 6,2020,11.9,0.42,0.46,28.34
+Suver Haze, Oregon CBD, Illinois, Will,301, Sep 1,2020,5.01,0.25,1.47,20.36
+Suver Haze, Oregon CBD, Illinois, Pike,279, Aug 24,2020,9.03,0.43,0.39,21.06
+Sweet Wife, Trilogene Seeds, Illinois, Boone,92, Oct 7,2020,5.76,0.2,0.34,29.25
+Sweet Wife, Trilogene Seeds, Illinois, Boone,173, Oct 28,2020,5.99,0.19,0.09,31.54
+Sweet Wife, Trilogene Seeds, Illinois, Boone,598, Sep 23,2020,2.88,0.11,0.37,25.39
+Sweet Wife, Tesoro Genetics, Illinois, Winnebago,587, Sep 24,2020,4.52,0.19,0.43,23.77
+Sweet Wife, Trilogene Seeds, Illinois, Boone,537, Sep 16,2020,1.04,0.05,0.33,22.18
+Sweetened, Whispering Creek, Illinois, Jefferson,494, Sep 11,2020,3.24,0.17,0.18,18.73
+Sweetened, Whispering Creek, Illinois, Jefferson,197, Nov 10,2020,4.23,0.18,0.06,23.43
+Sweetgrass x Cherry Wine, Old Country Hemp, Wisconsin, Trempealeau,449, Sep 14,2020,4.89,0.18,0.24,27.92
+Sweetgrass x Cherry Wine, Old Country Hemp, Wisconsin, Trempealeau,697, Oct 5,2020,9.65,0.32,0.14,30.55
+Sweetgrass x Cherry Wine, Old Country Hemp, Wisconsin, Trempealeau,633, Sep 28,2020,8.88,0.28,0.38,31.88
+T1 (Trump), Whispering Creek, Illinois, Jefferson,496, Sep 11,2020,4.32,0.26,0.18,16.41
+T1 (Trump), Green Lynx Farms, Wisconsin, Columbia,439, Sep 11,2020,6.64,0.27,0.23,24.64
+T1 (Trump), Green Lynx Farms, Wisconsin, Columbia,26, Sep 21,2020,6.61,0.22,0.42,30.13
+T1 (Trump), Old Country Hemp, Wisconsin, Marathon,411, Sep 9,2020,3.13,0.16,0.15,19.72
+T1 (Trump), Green Lynx Farms, Wisconsin, Walworth,102, Oct 15,2020,6.24,0.2,0.29,30.95
+T1 (Trump), Old Country Hemp, Wisconsin, Marathon,362, Sep 1,2020,3.11,0.13,0.13,23.69
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,172, Oct 28,2020,12.4,0.43,0.18,28.58
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,171, Oct 28,2020,6.76,0.25,0.48,27.11
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,170, Oct 28,2020,8.65,0.31,0.12,28.24
+T1 (Trump), Green Lynx Farms, Wisconsin, Walworth,675, Oct 1,2020,5.44,0.24,0.28,22.42
+T1 (Trump), Old Country Hemp, Wisconsin, Marathon,85, Oct 3,2020,4.01,0.15,0.09,25.94
+T1 (Trump), Old Country Hemp, Wisconsin, Green,81, Oct 7,2020,7.23,0.24,0.18,30.34
+T1 (Trump), Old Country Hemp, Wisconsin, Green,581, Sep 23,2020,5.82,0.25,0.34,23.09
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,549, Sep 18,2020,4.72,0.25,0.29,18.68
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,548, Sep 18,2020,2.43,0.13,0.24,19.4
+T1 (Trump), London Tobacco Warehouse, Wisconsin, Kenosha,547, Sep 18,2020,5.82,0.25,0.27,23
+T1 (Trump), Green Lynx Farms, Wisconsin, Columbia,265, Aug 24,2020,2.15,0.11,0.08,18.96
+T1 (Trump), Green Lynx Farms, Wisconsin, Walworth,518, Sep 17,2020,4.4,0.19,0.38,23.55
+T2, PRICELAND HEMP, Wisconsin, Wood,63, Oct 5,2020,8.38,0.32,0.35,25.86
+T2, Boring Hemp Co,Illinois, Peoria,710, Oct 7,2020,8.26,0.31,0.18,26.74
+T2, Boring Hemp Co,Illinois, Peoria,649, Sep 30,2020,8.36,0.33,0.27,24.97
+T2, PRICELAND HEMP, Wisconsin, Wood,165, Oct 20,2020,8.49,0.3,0.1,28.77
+T2, PRICELAND HEMP, Wisconsin, Wood,550, Sep 18,2020,4.05,0.17,0.25,23.53
+The Grand, Boring Hemp Co,Wisconsin, Columbia,464, Sep 14,2020,3.54,0.14,0.13,25.21
+The Grand, Boring Hemp Co,Wisconsin, Columbia,52, Sep 28,2020,8.18,0.29,0.3,27.98
+The Grand, Boring Hemp Co,Wisconsin, Walworth,715, Oct 7,2020,6.94,0.25,0.32,27.34
+The Grand, Boring Hemp Co,Wisconsin, Columbia,337, Sep 1,2020,1.72,0.11,0.06,15.96
+The Grand, Boring Hemp Co,Wisconsin, Walworth,614, Sep 24,2020,4.9,0.19,0.33,25.31
+The Grand, Boring Hemp Co,Wisconsin, Walworth,139, Oct 22,2020,8.45,0.28,0.12,29.68
+The Grand, West Star Organics, Wisconsin, Sauk,553, Sep 21,2020,5.91,0.24,0.33,24.33
+The Grand, West Star Organics, Wisconsin, Sauk,512, Sep 17,2020,7.45,0.29,0.29,25.34
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,500, Sep 14,2020,8.6,0.35,0.19,24.53
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,402, Sep 7,2020,7.39,0.33,0.32,22.49
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,352, Aug 31,2020,3.8,0.18,0.11,21.54
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,690, Sep 29,2020,12.12,0.5,0.33,24.16
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,584, Sep 22,2020,10.48,0.42,0.45,25.05
+The Wife's Wine #2, BC Hemp, Indiana, Monroe,285, Aug 24,2020,2.06,0.11,0.1,18.05
+Therapy, Hemp 4 heros (H4H), Wisconsin, Dodge,100, Oct 15,2020,2.95,0.12,0.04,25.59
+Therapy, Hemp 4 heros (H4H), Wisconsin, Dodge,169, Oct 28,2020,3.26,0.13,0.06,25.29
+Therapy, Hemp 4 heros (H4H), Wisconsin, Dodge,314, Aug 30,2020,1.44,0.08,0.13,18.26
+Therapy, Hemp 4 heros (H4H), Wisconsin, Dodge,593, Sep 24,2020,3.02,0.12,0.2,25.95
+Trump Wine #1, BC Hemp, Indiana, Monroe,501, Sep 14,2020,6.05,0.3,0.26,20.48
+Trump Wine #1, BC Hemp, Indiana, Monroe,403, Sep 7,2020,4.18,0.19,0.21,22.38
+Trump Wine #1, BC Hemp, Indiana, Monroe,353, Aug 31,2020,2.17,0.1,0.11,20.84
+Trump Wine #1, BC Hemp, Indiana, Monroe,691, Sep 29,2020,10.52,0.43,0.26,24.36
+Trump Wine #1, BC Hemp, Indiana, Monroe,586, Sep 22,2020,8.76,0.36,0.33,24.54
+Trump Wine #1, BC Hemp, Indiana, Monroe,286, Aug 24,2020,1.7,0.09,0,19.88
+Trump Wine #3, BC Hemp, Indiana, Monroe,502, Sep 14,2020,5.57,0.26,0.22,21.66
+Trump Wine #3, BC Hemp, Indiana, Monroe,404, Sep 7,2020,4.04,0.2,0.18,20.08
+Trump Wine #3, BC Hemp, Indiana, Monroe,354, Aug 31,2020,1.45,0.11,0.09,13.59
+Trump Wine #3, BC Hemp, Indiana, Monroe,692, Sep 29,2020,11.94,0.5,0.26,24.02
+Trump Wine #3, BC Hemp, Indiana, Monroe,585, Sep 22,2020,8,0.35,0.36,22.53
+Trump Wine #3, BC Hemp, Indiana, Monroe,287, Aug 24,2020,1.01,0.09,0.04,10.62
+Umpqua, Illinois Hemp Project, Illinois, Kendall,40, Sep 19,2020,11.45,0.5,0.2,22.75
+White CBG, Oregon CBD, Wisconsin, Marquette,252, Aug 24,2020,0,0.04,2.65,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,229, Aug 18,2020,0,0.05,3.14,0
+White CBG, Oregon CBD, Wisconsin, Marquette,448, Sep 14,2020,0,0.12,7.79,0
+White CBG, Oregon CBD, Wisconsin, Trempealeau,453, Sep 15,2020,0,0.08,5.36,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,451, Sep 14,2020,0,0.12,9.08,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,3, Sep 9,2020,0.06,0.24,7.94,0.24
+White CBG, Oregon CBD, Wisconsin, Green,413, Sep 10,2020,0.04,0.08,5.71,0.46
+White CBG, Oregon CBD, Wisconsin, Dane,12, Sep 14,2020,0,0.09,6.6,0
+White CBG, Oregon CBD, Wisconsin, Trempealeau,381, Sep 8,2020,0,0.05,6.4,0
+White CBG, Oregon CBD, Wisconsin, Trempealeau,191, Nov 10,2020,0,0.09,5.02,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,185, Nov 3,2020,0.39,0.16,9.3,2.45
+White CBG, Oregon CBD, Wisconsin, Dane,372, Sep 7,2020,0,0.12,7.6,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,164, Oct 19,2020,0.04,0.18,13.69,0.25
+White CBG, Oregon CBD, Wisconsin, Marquette,182, Nov 2,2020,0,0.32,10.48,0
+White CBG, Oregon CBD, Wisconsin, Trempealeau,648, Sep 29,2020,0,0.16,8.32,0
+White CBG, Oregon CBD, Wisconsin, Dane,315, Aug 31,2020,0.04,0.06,5.44,0.58
+White CBG, Oregon CBD, Illinois, Kendall,620, Sep 19,2020,0.05,0.14,9.76,0.35
+White CBG, Oregon CBD, Illinois, Will,305, Sep 1,2020,5.7,0.11,3.88,54.02
+White CBG, Oregon CBD, Illinois, Kendall,300, Aug 21,2020,0,0.05,3.95,0
+White CBG, Oregon CBD, Wisconsin, Manitowoc,83, Oct 6,2020,0.03,0.11,9.58,0.25
+White CBG, Oregon CBD, Wisconsin, Dane,256, Aug 25,2020,0,0.05,2.98,0
+White CBG, Oregon CBD, Wisconsin, Dane,155, Oct 7,2020,0,0.15,8.61,0
+Wife, Alterra, Wisconsin, Fond du Lac,388, Sep 9,2020,1.89,0.13,0.09,15.04
+Wife, Alterra, Wisconsin, Fond du Lac,250, Aug 20,2020,2.05,0.12,0.13,17.49
+Wife, Blue Forest Farms, Michigan, Muskegon,752, Oct 17,2020,9.07,0.37,0.17,24.79
+Wife, Alterra, Wisconsin, Fond du Lac,730, Oct 13,2020,6.23,0.25,0.33,25.38
+Wife, Blue Forest Farms, Michigan, Muskegon,596, Sep 22,2020,5.6,0.2,0.3,27.96
+Wife, Alterra, Wisconsin, Fond du Lac,221, Aug 11,2020,2.27,0.12,0.14,19.54
+Willy, West Star Organics, Wisconsin, Sauk,511, Sep 16,2020,2.2,0.13,0.16,16.9
+Z-lights, High Alpine Genetics, Indiana, Delaware,475, Sep 14,2020,6.92,0.29,0.28,23.77
+Z-lights, High Alpine Genetics, Indiana, Delaware,396, Sep 8,2020,3.65,0.16,0.17,22.17
+Z-lights, High Alpine Genetics, Indiana, Delaware,269, Aug 24,2020,1.75,0.1,0.03,18.18
